@@ -1,5 +1,5 @@
 import React from 'react';
-import { ColorModeSwitcher } from '../ColorModeSwitcher';
+import { ColorModeSwitcher } from '../utils/ColorModeSwitcher';
 import { Grid } from '@chakra-ui/react';
 
 const Navbar = () => {
